@@ -11,6 +11,7 @@ import com.badlogic.gdx.backends.lwjgl.LwjglApplicationConfiguration;
  * the cfg and listener. From this point, the 
  * LwjglApplication will take over and run the program.
  * 
+ * 
  * Change Log:
  * 15.9.21: First Edition
  *
