@@ -7,6 +7,7 @@ import com.badlogic.gdx.physics.box2d.BodyDef;
  * 
  * Change Log:
  * 15.9.21gha: First Edition
+ * 
  */
 
 public abstract class B2DVars {
